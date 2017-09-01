@@ -1,3 +1,10 @@
-theme: jekyll-theme-cayman
 title: Women@Work
-description: Women@Work is group of professional women.
+description: Women@Work is a group of professional women.
+
+plugins:
+  - jekyll-sitemap
+
+permalink:  pretty
+sass:
+  sass_dir: scss
+  style:    compressed
