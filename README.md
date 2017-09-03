@@ -37,7 +37,9 @@ Other than the (negligible) cost of buying the domain name, this project is host
 - [Cloudflare](https://www.cloudflare.com/) for DNS stuff
 - [GitHub Pages](https://pages.github.com/) for web hosting
 - [Jekyll](http://jekyllrb.com/) for templating
+- [Bootstrap](http://getbootstrap.com/) for scaffolding
 - [Start Bootstrap](https://startbootstrap.com/) for themes
+- [Font Awesome](http://fontawesome.io/) for icons
 - [uiGradients](https://uigradients.com/) for colors
 - [Transparent Textures](https://www.transparenttextures.com/) for patterns
 - [Google Forms](https://www.google.com/forms/about/) for invitations
