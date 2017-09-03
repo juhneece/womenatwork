@@ -1,14 +1,13 @@
----
----
-
+// Core variables and mixins
 @import "variables.scss";
 @import "mixins.scss";
+// Global CSS
 @import "global.scss";
+// Components
 @import "navbar.scss";
 @import "masthead.scss";
-@import "download.scss";
-@import "features.scss";
-@import "cta.scss";
+@import "services.scss";
 @import "contact.scss";
 @import "footer.scss";
+// Bootstrap Overrides
 @import "bootstrap-overrides.scss";
