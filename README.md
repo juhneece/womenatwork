@@ -43,3 +43,12 @@ Other than the (negligible) cost of buying the domain name, this project is host
 - [uiGradients](https://uigradients.com/) for colors
 - [Transparent Textures](https://www.transparenttextures.com/) for patterns
 - [Google Forms](https://www.google.com/forms/about/) for invitations
+
+## Todo
+
+- [ ] replace "lorem ipsum"
+- [ ] create favicon
+- [ ] change logotype
+- [ ] change fonts(?)
+- [ ] move `js`, `img`, `css` to `public` subdir
+- [ ] delete "popper" stuff (modal windows?)
