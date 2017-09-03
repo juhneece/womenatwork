@@ -163,10 +163,9 @@ header.masthead {
   text-transform: none; }
 
 section#join {
-  background-color: #222222;
-  background-image: url("../img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center; }
+  background: url("../img/bg-pattern.png"), #414345;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #414345, #232526);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #414345, #232526); }
   section#join .section-heading {
     color: white; }
   section#join .form-group {
@@ -215,31 +214,11 @@ footer {
     text-transform: none;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
-  footer ul.quicklinks {
-    font-size: 90%;
-    line-height: 40px;
-    margin-bottom: 0;
-    text-transform: none;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-transform: uppercase; }
-
-ul.social-buttons {
-  margin-bottom: 0; }
-  ul.social-buttons li a {
-    font-size: 20px;
-    line-height: 40px;
-    display: block;
-    width: 40px;
-    height: 40px;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-    color: white;
-    border-radius: 100%;
-    outline: none;
-    background-color: #222222; }
-    ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+  footer ul.list-inline li a {
+    color: #000; }
+    footer ul.list-inline li a:hover {
+      text-decoration: none;
+      color: #333333; }
 
 .text-primary {
   color: #fed136 !important; }

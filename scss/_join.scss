@@ -1,9 +1,8 @@
-// Styling for the contact section
+// Styling for the join section
 section#join {
-  background-color: $gray-darker;
-  background-image: url('../img/map-image.png');
-  background-repeat: no-repeat;
-  background-position: center;
+  background: url('../img/bg-pattern.png'), $join-gradient-right;
+  background: url('../img/bg-pattern.png'), -webkit-linear-gradient(to left, $join-gradient-right, $join-gradient-left);
+  background: url('../img/bg-pattern.png'), linear-gradient(to left, $join-gradient-right, $join-gradient-left);
   .section-heading {
     color: white;
   }
