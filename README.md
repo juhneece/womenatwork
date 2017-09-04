@@ -47,7 +47,8 @@ Other than the (negligible) cost of buying the domain name, this project is host
 
 ## Todo
 
-- [ ] replace "lorem ipsum"
+- [ ] replace "lorem ipsum`
+- [ ] fix mobile responsiveness error (right side overflow)
 - [ ] create favicon
 - [ ] change logotype
 - [ ] change fonts(?)
